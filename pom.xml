@@ -59,7 +59,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>DldConv</mainClass>
+              <mainClass>com.avalokita.jextconv.DldConv</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
@@ -86,7 +86,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>DldConv</mainClass>
+              <mainClass>com.avalokita.jextconv.DldConv</mainClass>
             </manifest>
           </archive>
         </configuration>
